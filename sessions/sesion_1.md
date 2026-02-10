@@ -1,5 +1,5 @@
 # Session – YYYY-MM-DD
-- 2026 - 02 - 10
+- 2026 - 02 (February) - 10
 
 ## Topics covered
 - SELECT, WHERE, LIKE, ORDER BY, DESC, LIMIT, OFFSET, BETWEEN, NOT, AND
