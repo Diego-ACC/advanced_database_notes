@@ -1,0 +1,1 @@
+Do the SQLBolt 6 & 7, also do the exercise that the teacher required in the Canvas announcement
