@@ -1,0 +1,1 @@
+Complete the fresql that talks about UNION, INTERSECT and MINUS
