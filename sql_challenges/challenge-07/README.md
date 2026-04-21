@@ -1,0 +1,1 @@
+Complete the exercise that the teacher gave through announcements
