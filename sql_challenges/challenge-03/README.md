@@ -1,0 +1,1 @@
+Do the SQLBolt 10 & 11, also do some SQL exercise from Oracle about Aggregate Functions
