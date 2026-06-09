@@ -1,0 +1,1 @@
+In oracle Sandbox and DataLemur, make the Analytics tutorial with the knowledge we have so far about Window functions
